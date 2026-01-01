@@ -422,7 +422,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Created by:** [Your Name]
+**Created by:** [Nazky]
 **Version:** 1.0.0
 **Last Updated:** 2024
 
@@ -435,12 +435,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 ---
-
-<div align="center">
-
-**Made with ❤️ for a cleaner world**
-
-🌍♻️🤖
-
-</div>
-
